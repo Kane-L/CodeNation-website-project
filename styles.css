@@ -1,0 +1,46 @@
+li{
+    list-style-type: none;
+    margin: 0 2vw;
+    font-size: 4vh;
+  }
+  a:hover{
+    background-color: rgb(109, 109, 109);
+  }
+  a{
+    text-decoration: none;
+    color: blanchedalmond;
+    padding: 2vw;
+    font-family: monospace;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  body{
+    margin: 0;
+  }
+  nav{
+    width: 100vw;
+    height: 8.8vh;
+    background-color: black
+  }
+h1 {
+    color: darkblue;
+}
+h2 {
+    color: darkblue;
+}
+p {
+    color: rgb(255, 8, 0);
+}
+h3 {
+    color: darkblue;
+}
+body {
+    background-color: rgb(223, 222, 222); 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  /*https://itnext.io/how-to-create-a-responsive-navigation-bar-with-html-css-and-jquery-step-by-step-tutorial-9c780b58479f 
+reference i used for my nav bar
