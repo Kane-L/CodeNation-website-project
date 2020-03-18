@@ -4,7 +4,7 @@ li{
     font-size: 4vh;
   }
   a:hover{
-    background-color: rgb(109, 109, 109);
+    background-color: rgb(207, 18, 18);
   }
   a{
     text-decoration: none;
@@ -40,7 +40,8 @@ h3 {
 }
 body {
     background-color: rgb(223, 222, 222); 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
   }
   /*https://itnext.io/how-to-create-a-responsive-navigation-bar-with-html-css-and-jquery-step-by-step-tutorial-9c780b58479f 
 reference i used for my nav bar
